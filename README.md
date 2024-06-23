@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Miguel Galvão</h1>
+<h1 align="center">Olá 👋, Sou o Miguel Galvão</h1>
 <h3 align="center">Sou um estudante de engenharia de Software e suas tecnologias</h3>
 
 <h3 align="left">Connect with me:</h3>
